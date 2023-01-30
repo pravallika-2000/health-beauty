@@ -4,7 +4,7 @@ This web based application has been developed for the accomplishment of Future R
  
 Github resporarory link- https://github.com/pravallika-2000/health-beauty.git
 
-*Youtube vedio Link    -https://youtu.be/YyCUPjNhTr8
+*Youtube vedio Link    - https://youtu.be/qAl7JIpLUYY
 
 *Project Demo Link     - https://delightful-flower-0f61cda00.2.azurestaticapps.net
 
